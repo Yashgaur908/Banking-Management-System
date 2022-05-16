@@ -699,6 +699,6 @@ void welcome_screen()
 	outtextxy(210,290,"BANK");
 	settextstyle(8,0,1);
 	sleep(2);
-	outtextxy(100,380,"Created By ::- YASH GAUR & NIKHIL YADAV");
+	outtextxy(100,380,"Created By ::- YASH GAUR");
 	getch();
 }
